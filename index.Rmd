@@ -1,0 +1,18 @@
+---
+title: "Citlali Gil Aguillon"
+image: "IMG_20210125_150632.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/argininaa"
+  - label: GitHub
+    url: "https://github.com/CitlaliGA"
+  - label: Email
+    url: "mailto:citlali.gil.a@email.com"
+  - label: mi chik de neza
+    url: "https://github.com/Emarquezz"
+output:
+  postcards::jolla
+---
+ 
+Soy una chik kul de iztapalapa uwu tengo un querer con la chica de neza
+no pongo más, si te interesa saber algo solo pregunta ;)
