@@ -9,7 +9,7 @@ links:
   - label: Email
     url: "mailto:citlali.gil.a@email.com"
   - label: mi chik de neza
-    url: "https://github.com/Emarquezz"
+    url: "https://emarquezz.github.io/"
 output:
   postcards::jolla
 ---
