@@ -14,5 +14,4 @@ output:
   postcards::jolla
 ---
  
-Soy una chik kul de iztapalapa uwu tengo un querer con la chica de neza
-no pongo más, si te interesa saber algo solo pregunta ;)
+Soy una chik kul de iztapalapa uwu tengo un querer con la chica de neza, me gustan los gatos. No pongo más, si te interesa saber algo solo pregunta ;)
